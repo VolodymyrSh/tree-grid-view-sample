@@ -4,21 +4,6 @@ This project includes a very simple demonstration of Aras Tree Grid View (TGV) f
 
 An upcoming Aras Labs blog post will walk through the steps of manually configuring a TGV and the underlying QueryDefinition.  
 
-## History
-
-Release | Notes
---------|--------
-[v1.1.0](https://github.com/ArasLabs/tree-grid-view-sample/releases/tag/v1.1.0) | Confirmed support for Aras 11.0 SP15.
-[v1.0.0](https://github.com/ArasLabs/tree-grid-view-sample/releases/tag/v1.0.0) | First release.
-
-#### Supported Aras Versions
-
-Project | Aras
---------|------
-[v1.1.0](https://github.com/ArasLabs/tree-grid-view-sample/releases/tag/v1.1.0) | 11.0 SP15, 11.0 SP14, 11.0 SP12, 11.0 SP11
-[v1.0.0](https://github.com/ArasLabs/tree-grid-view-sample/releases/tag/v1.0.0) | 11.0 SP12, 11.0 SP11
-
-> Warning: This package is not backwards-compatible with Innovator 11.0 SP10. 
 
 ## Installation
 
@@ -27,7 +12,7 @@ Project | Aras
 
 ### Pre-requisites
 
-1. Aras Innovator installed (version 11.0 SP12)
+1. Aras Innovator installed (version 12.0 SP0)
 2. Aras Package Import Utility
 3. aras.labs.TGV_Sample package
 
